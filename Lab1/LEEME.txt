@@ -1,0 +1,7 @@
+El makefile tiene dos tests listos para probar:
+
+"make run" ejecuta el primero de los tests con el archivo input.txt
+
+"make fullTest" ejecuta todas las pruebas con los archivos de entrada
+subidos al drive del curso, que también se adjuntan en esta entrega
+para facilitar la revisión del test.

@@ -1,0 +1,1 @@
+Todos los programas se ejecutan sin deadlock y escriben el archivo de salida sin problemas, pero para los datasets de 30 mil y 1 millon tardan unos minutos.
